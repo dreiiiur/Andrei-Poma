@@ -32,15 +32,15 @@
 
 ###
 
-<h3 align="left">👩🏾‍💻 Learning Front-End Development and UI/UX Designs.</h3>
+<h3 align="left">👩🏾‍💻 Curernt Learning Front-End Development and Components in UI/UX design using Figma.</h3>
 
 ###
 
-<p align="left">4th year BSIT student from Bulacan State University Bustos Campus.<br><br>-🔭 I’m currently working at Shift101 (Intern)<br>- 🌱 I’m currently learning React.js</p>
+<p align="left">A freelance UI/UX Designer, Web Designer, and Graphic Designer.<br><br>-🔭 I’m currently working at Shift101 (Intern)<br>- 🌱 I’m currently learning React.js for front-end development.</p>
 
 ###
 
-<h2 align="center">🛠️ Technologies and Tools</h2>
+<h2 align="center">🛠️ Technologies and Tools that I'm Currently Using</h2>
 
 ###
 
