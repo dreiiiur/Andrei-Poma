@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="center">🛠️ Technologies and Tools that I'm Currently Using</h2>
+<h2 align="center">🛠️ Technologies and Tools that I'm Currently Using are</h2>
 
 ###
 
